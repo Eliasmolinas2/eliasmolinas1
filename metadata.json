@@ -1,0 +1,6 @@
+{
+  "name": "RoyalPlay - Casino Online & Comunicaciones Seguras",
+  "description": "Plataforma premium de casino online, mensajería cifrada AES-256-GCM, billetera ARS, juego responsable (+18) y arquitectura regulada para el mercado argentino.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
